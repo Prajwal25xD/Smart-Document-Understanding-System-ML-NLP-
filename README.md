@@ -1,4 +1,4 @@
-# Smart Document Understanding System (ML + NLP)
+# Movie Review Sentiment Analysis(ML + NLP)
 
 An end-to-end Machine Learning and Natural Language Processing project that analyzes raw text and predicts its sentiment (Positive / Negative). The system includes text preprocessing, feature engineering using TF-IDF, model training with classical ML algorithms, and a Streamlit web application for real-time predictions.
 
