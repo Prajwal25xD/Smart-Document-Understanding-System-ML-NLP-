@@ -1,6 +1,8 @@
 import streamlit as st
 import joblib
 import nltk
+nltk.download('punkt')
+nltk.download('punkt_tab')
 import string
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
